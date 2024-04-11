@@ -34,7 +34,7 @@ To run the script, open a terminal or command prompt, navigate to the script's d
 `python webScraper.py`
 
 
-Upon successful execution, a file named `quotes.csv` will be created in the same directory, containing the scraped quotes, authors, and tags.
+Upon successful execution, a file named `text.csv` will be created in the same directory, containing the scraped quotes, authors, and tags.
 
 ## CSV File Format
 
